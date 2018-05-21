@@ -10,7 +10,7 @@ public class Example
 	counter = scanner.nextInt();
 
 	/* This loop stores all the elements that we enter in anjhkhkkhk 
-	 * the array number. Firstbnb  jkdjff element is at nuknmber[0], second at 
+	 * the array number. Firstbnb  jkdbnjff element is at nuknmber[0], second at 
 	 * number[1] and so on
 	 */
 	for(i=0; i<counter; i++)
