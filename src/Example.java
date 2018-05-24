@@ -9,7 +9,7 @@ public class Example
 	System.out.print("How many elements you want to enter: ");
 	counter = scanner.nextInt();
 
-	/* This loop stores all the elements that we enter in anjhkhkkhk 
+	/* This loop stores all the elemejkghgnts that we entejhgjhr in anjhkhkkhk 
 	 * the array number. Firstbnb  jkdbnjff element is at nuknmber[0], second at 
 	 * number[1] and so on
 	 */
