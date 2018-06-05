@@ -23,7 +23,7 @@ public class Example
 	 * last element, second last element with second element and
 	 * so on. On the first iteration of while loop i is the index 
 	 * of first element and j is the index of last. On the second
-	 * iteration i is the inkjgjhghjghjdex of second and j is the index of 
+	 * iteration i is the inkjgjhghjghjddddex of second and j is the index of 
 	 * second last.
 	 */
 	j = i - 1;     
