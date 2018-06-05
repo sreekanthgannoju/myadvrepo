@@ -26,7 +26,7 @@ public class Example
 	 * iteration i is the inkjgjhghjghjddddex of second and j is the index of 
 	 * second last.
 	 */
-	j = i - 1;     
+	j = i - 1.     
 	i = 0;         
 	scanner.close();
 	while(i<j)
